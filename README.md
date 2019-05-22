@@ -10,3 +10,6 @@ This article [JSON最佳实践](http://kimmking.github.io/2017/06/06/json-best-p
 ### eventbus
 Basic practice of EventBus.  
 Detailed prescription of this is [here](http://greenrobot.org/eventbus/documentation/)
+
+### volley
+Practice of Volley by [official documents](https://developer.android.google.cn/training/volley)
