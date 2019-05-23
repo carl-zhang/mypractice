@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">okhttp</string>
+    <string name="get">get</string>
+    <string name="post">post</string>
+    <string name="obtain">获取</string>
+    <string name="file">文件</string>
+    <string name="obtain_info">获取信息...</string>
+</resources>
